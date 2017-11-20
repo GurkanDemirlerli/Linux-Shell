@@ -1,1 +1,1 @@
-# SauSH
+# SauSH Linux Shell Uygulaması
